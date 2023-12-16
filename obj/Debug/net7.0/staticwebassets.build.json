@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j5sRD/ApoJ+k0QuIAdllXMGKl5+5ZjneB0wvHCWIkts=",
+  "Source": "livestock-api",
+  "BasePath": "_content/livestock-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
